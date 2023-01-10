@@ -1,0 +1,7 @@
+[user]
+	name = Andrea Bernardini
+	email = andrea.bernardini@icloud.com
+[difftool]
+  prompt = false
+[core]
+	excludesfile = ~/.gitignore_global
