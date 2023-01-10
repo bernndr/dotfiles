@@ -9,3 +9,9 @@ Files are managed using stow. Install stow using Homebrew.
 ```bash
 brew install stow
 ```
+
+## Usage
+
+```bash
+stow -vt ~ *
+```
