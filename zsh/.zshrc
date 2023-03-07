@@ -14,3 +14,6 @@ plugins=(git)
 
 export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 source ~/.oh-my-zsh/oh-my-zsh.sh
+
+# Aliases
+source ~/.aliases 2> /dev/null
