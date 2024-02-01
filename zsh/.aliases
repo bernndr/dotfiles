@@ -1,2 +1,3 @@
-# Open bbedit
-alias bb="bbedit"
+# Open SublimeText
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias sb="subl"
