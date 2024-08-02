@@ -20,7 +20,7 @@ export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 source ~/.oh-my-zsh/oh-my-zsh.sh
 
 # Set default editor
-export EDITOR='nova'
+export EDITOR='bbedit'
 
 # Aliases
 source ~/.aliases 2> /dev/null
